@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Diogo Paulo is a PhD student in Computer Science, with a specialization in Artificial Intelligence. He is experienced in teamwork and programming projects, with a proven ability to collaborate effectively to achieve common goals. Passionate about learning and genuinely interested in Computer Science, particularly artificial intelligence. He is committed to becoming an exceptional professional.
+Diogo Paulo is a PhD student in Computer Science funded by FCT, with a specialization in Artificial Intelligence. He is experienced in teamwork and programming projects, with a proven ability to collaborate effectively to achieve common goals. Passionate about learning and genuinely interested in Computer Science, particularly artificial intelligence. He is committed to becoming an exceptional professional.
 
 ## Education
 - 2023 - 2025 | **M.Sc. in Computer Science and Engineering** (Specialized in Artificial Intelligence) @ University of Beira Interior | Covilhã, Portugal
